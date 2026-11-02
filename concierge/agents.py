@@ -50,7 +50,7 @@ def build_root(env: dict[str, str]) -> Agent:
     )
     in_trip = Agent(
         model=model, name="in_trip_agent", generate_content_config=gen,
-        description="Handles anything about a trip that is already booked: itinerary questions, changes and refunds.",
+        description="The traveler's existing or ongoing trip: what is booked, when it starts and what to do during it. It does not cancel or refund.",
         instruction=_prompt("in_trip"),
         tools=[tools.get_itinerary, tools.get_attractions],
     )

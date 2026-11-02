@@ -11,7 +11,9 @@ MAX_OUTPUT_TOKENS = 4000
 MAX_LLM_CALLS = 12
 
 # Earlier chat messages passed to the agent along with the latest one.
-HISTORY_MESSAGES = 4
+# Must be large enough that a chosen offer_id, a corrected quantity or a chosen
+# flight from earlier turns still reaches the booking specialist.
+HISTORY_MESSAGES = 40
 
 # Booking holds are released after this many minutes.
 HOLD_MINUTES = 30

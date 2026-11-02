@@ -31,8 +31,8 @@ def search_flights(
     """Search flights between two airports. Returns outbound (and return, when return_date is given) options with offer_id, times, price per passenger in USD and seats left.
 
     Args:
-        origin: IATA airport code or city name, for example BOM or Mumbai.
-        destination: IATA airport code or city name.
+        origin: Three-letter IATA airport code only, never a city name: convert city names to the code first, for example Mumbai -> BOM, Lisbon -> LIS, London -> LHR.
+        destination: Three-letter IATA airport code only, never a city name: convert city names to the code first.
         depart_date: Departure date, YYYY-MM-DD.
         passengers: Number of passengers, 1 to 9.
         cabin: economy, premium_economy or business.
@@ -81,7 +81,7 @@ def check_visa_requirements(destination: str, nationality: Optional[str] = None,
     """Check whether a passport holder needs a visa for a destination country, with visa type, maximum stay, processing time in days and notes.
 
     Args:
-        destination: Country or city name.
+        destination: Country name, never a city: convert city names to their country first, for example London -> United Kingdom, Lisbon -> Portugal.
         nationality: Two-letter passport nationality code, for example IN, US or GB. Defaults to the traveler's own passport.
         stay_days: Planned length of stay in days.
     """
