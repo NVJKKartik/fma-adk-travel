@@ -1,0 +1,28 @@
+{
+ "traveler_id": "T-1001",
+ "name": "Maya Iyer",
+ "email": "maya.iyer@example.com",
+ "passport_nationality": "IN",
+ "home_airport": "BOM",
+ "home_currency": "INR",
+ "preferred_cabin": "economy",
+ "loyalty_tier": "silver",
+ "dietary": "vegetarian",
+ "interests": [
+  "food",
+  "history",
+  "museum"
+ ],
+ "payment_methods": [
+  {
+   "id": "card_4242",
+   "type": "card",
+   "label": "Visa ending 4242"
+  },
+  {
+   "id": "upi_maya",
+   "type": "upi",
+   "label": "UPI maya@okbank"
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+[
+ {
+  "hotel_id": "H-LON-1",
+  "city": "London",
+  "name": "The Marlowe Hotel",
+  "stars": 4,
+  "nightly_rate": 210,
+  "currency": "GBP",
+  "tax_pct": 20,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "breakfast",
+   "gym"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-LON-2",
+  "city": "London",
+  "name": "Kensington Budget Inn",
+  "stars": 2,
+  "nightly_rate": 95,
+  "currency": "GBP",
+  "tax_pct": 20,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-LON-3",
+  "city": "London",
+  "name": "Thames Grand",
+  "stars": 5,
+  "nightly_rate": 430,
+  "currency": "GBP",
+  "tax_pct": 20,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "spa",
+   "pool",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-PAR-1",
+  "city": "Paris",
+  "name": "Hotel Lumiere",
+  "stars": 4,
+  "nightly_rate": 185,
+  "currency": "EUR",
+  "tax_pct": 10,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "breakfast"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-PAR-2",
+  "city": "Paris",
+  "name": "Montmartre Stay",
+  "stars": 3,
+  "nightly_rate": 120,
+  "currency": "EUR",
+  "tax_pct": 10,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-PAR-3",
+  "city": "Paris",
+  "name": "Le Grand Palais",
+  "stars": 5,
+  "nightly_rate": 520,
+  "currency": "EUR",
+  "tax_pct": 10,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi",
+   "spa",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-LIS-1",
+  "city": "Lisbon",
+  "name": "Alfama Terrace",
+  "stars": 3,
+  "nightly_rate": 98,
+  "currency": "EUR",
+  "tax_pct": 6,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-LIS-2",
+  "city": "Lisbon",
+  "name": "Baixa Boutique",
+  "stars": 4,
+  "nightly_rate": 150,
+  "currency": "EUR",
+  "tax_pct": 6,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "gym",
+   "pool"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-LIS-3",
+  "city": "Lisbon",
+  "name": "Tagus Hostel & Suites",
+  "stars": 2,
+  "nightly_rate": 55,
+  "currency": "EUR",
+  "tax_pct": 6,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-TYO-1",
+  "city": "Tokyo",
+  "name": "Shinjuku Park Hotel",
+  "stars": 4,
+  "nightly_rate": 28000,
+  "currency": "JPY",
+  "tax_pct": 10,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "gym"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-TYO-2",
+  "city": "Tokyo",
+  "name": "Asakusa Capsule Inn",
+  "stars": 2,
+  "nightly_rate": 7500,
+  "currency": "JPY",
+  "tax_pct": 10,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-TYO-3",
+  "city": "Tokyo",
+  "name": "Ginza Imperial",
+  "stars": 5,
+  "nightly_rate": 62000,
+  "currency": "JPY",
+  "tax_pct": 10,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "spa",
+   "breakfast",
+   "pool"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-SIN-1",
+  "city": "Singapore",
+  "name": "Marina Vista",
+  "stars": 5,
+  "nightly_rate": 380,
+  "currency": "SGD",
+  "tax_pct": 9,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "pool",
+   "gym",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-SIN-2",
+  "city": "Singapore",
+  "name": "Chinatown Lodge",
+  "stars": 3,
+  "nightly_rate": 140,
+  "currency": "SGD",
+  "tax_pct": 9,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-SIN-3",
+  "city": "Singapore",
+  "name": "Bugis Budget",
+  "stars": 2,
+  "nightly_rate": 85,
+  "currency": "SGD",
+  "tax_pct": 9,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-DXB-1",
+  "city": "Dubai",
+  "name": "Creek Tower Hotel",
+  "stars": 4,
+  "nightly_rate": 520,
+  "currency": "AED",
+  "tax_pct": 5,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "pool",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-DXB-2",
+  "city": "Dubai",
+  "name": "Marina Sands",
+  "stars": 5,
+  "nightly_rate": 1100,
+  "currency": "AED",
+  "tax_pct": 5,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "pool",
+   "spa",
+   "gym"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-DXB-3",
+  "city": "Dubai",
+  "name": "Deira Economy",
+  "stars": 2,
+  "nightly_rate": 230,
+  "currency": "AED",
+  "tax_pct": 5,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-NYC-1",
+  "city": "New York",
+  "name": "Midtown Plaza",
+  "stars": 4,
+  "nightly_rate": 289,
+  "currency": "USD",
+  "tax_pct": 14,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "gym"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-NYC-2",
+  "city": "New York",
+  "name": "Brooklyn Loft Hotel",
+  "stars": 3,
+  "nightly_rate": 175,
+  "currency": "USD",
+  "tax_pct": 14,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "breakfast"
+  ],
+  "rooms_left": 3
+ },
+ {
+  "hotel_id": "H-NYC-3",
+  "city": "New York",
+  "name": "Park Avenue Grand",
+  "stars": 5,
+  "nightly_rate": 640,
+  "currency": "USD",
+  "tax_pct": 14,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi",
+   "spa",
+   "pool",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-DEL-1",
+  "city": "Delhi",
+  "name": "Connaught Residency",
+  "stars": 4,
+  "nightly_rate": 9500,
+  "currency": "INR",
+  "tax_pct": 12,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi",
+   "pool",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-DEL-2",
+  "city": "Delhi",
+  "name": "Paharganj Guest House",
+  "stars": 2,
+  "nightly_rate": 2200,
+  "currency": "INR",
+  "tax_pct": 12,
+  "cancellation": "strict",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-BOM-1",
+  "city": "Mumbai",
+  "name": "Marine Drive Hotel",
+  "stars": 4,
+  "nightly_rate": 11000,
+  "currency": "INR",
+  "tax_pct": 12,
+  "cancellation": "moderate",
+  "amenities": [
+   "wifi",
+   "pool",
+   "breakfast"
+  ],
+  "rooms_left": 6
+ },
+ {
+  "hotel_id": "H-BOM-2",
+  "city": "Mumbai",
+  "name": "Bandra Stay",
+  "stars": 3,
+  "nightly_rate": 5200,
+  "currency": "INR",
+  "tax_pct": 12,
+  "cancellation": "flexible",
+  "amenities": [
+   "wifi"
+  ],
+  "rooms_left": 6
+ }
+]

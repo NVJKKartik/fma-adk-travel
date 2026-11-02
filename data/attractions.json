@@ -1,0 +1,321 @@
+{
+ "London": [
+  {
+   "name": "Tower of London",
+   "category": "history",
+   "price": 32,
+   "currency": "GBP",
+   "hours": 3
+  },
+  {
+   "name": "British Museum",
+   "category": "museum",
+   "price": 0,
+   "currency": "GBP",
+   "hours": 3
+  },
+  {
+   "name": "Borough Market",
+   "category": "food",
+   "price": 0,
+   "currency": "GBP",
+   "hours": 2
+  },
+  {
+   "name": "West End show",
+   "category": "entertainment",
+   "price": 65,
+   "currency": "GBP",
+   "hours": 3
+  },
+  {
+   "name": "Hampstead Heath walk",
+   "category": "outdoors",
+   "price": 0,
+   "currency": "GBP",
+   "hours": 2
+  }
+ ],
+ "Paris": [
+  {
+   "name": "Louvre Museum",
+   "category": "museum",
+   "price": 22,
+   "currency": "EUR",
+   "hours": 3
+  },
+  {
+   "name": "Eiffel Tower summit",
+   "category": "landmark",
+   "price": 36,
+   "currency": "EUR",
+   "hours": 2
+  },
+  {
+   "name": "Seine dinner cruise",
+   "category": "food",
+   "price": 95,
+   "currency": "EUR",
+   "hours": 3
+  },
+  {
+   "name": "Montmartre food walk",
+   "category": "food",
+   "price": 70,
+   "currency": "EUR",
+   "hours": 3
+  },
+  {
+   "name": "Versailles day trip",
+   "category": "history",
+   "price": 28,
+   "currency": "EUR",
+   "hours": 5
+  }
+ ],
+ "Lisbon": [
+  {
+   "name": "Belem Tower",
+   "category": "history",
+   "price": 12,
+   "currency": "EUR",
+   "hours": 2
+  },
+  {
+   "name": "Tram 28 ride",
+   "category": "sightseeing",
+   "price": 3,
+   "currency": "EUR",
+   "hours": 1
+  },
+  {
+   "name": "Sintra day trip",
+   "category": "history",
+   "price": 25,
+   "currency": "EUR",
+   "hours": 6
+  },
+  {
+   "name": "Pasteis de Nata tasting",
+   "category": "food",
+   "price": 20,
+   "currency": "EUR",
+   "hours": 2
+  },
+  {
+   "name": "Fado evening",
+   "category": "entertainment",
+   "price": 35,
+   "currency": "EUR",
+   "hours": 2
+  }
+ ],
+ "Tokyo": [
+  {
+   "name": "Senso-ji Temple",
+   "category": "history",
+   "price": 0,
+   "currency": "JPY",
+   "hours": 2
+  },
+  {
+   "name": "teamLab Planets",
+   "category": "museum",
+   "price": 3800,
+   "currency": "JPY",
+   "hours": 3
+  },
+  {
+   "name": "Tsukiji outer market tour",
+   "category": "food",
+   "price": 9000,
+   "currency": "JPY",
+   "hours": 3
+  },
+  {
+   "name": "Mount Takao hike",
+   "category": "outdoors",
+   "price": 0,
+   "currency": "JPY",
+   "hours": 5
+  },
+  {
+   "name": "Shibuya Sky",
+   "category": "landmark",
+   "price": 2200,
+   "currency": "JPY",
+   "hours": 1
+  }
+ ],
+ "Singapore": [
+  {
+   "name": "Gardens by the Bay",
+   "category": "outdoors",
+   "price": 28,
+   "currency": "SGD",
+   "hours": 3
+  },
+  {
+   "name": "Hawker centre tour",
+   "category": "food",
+   "price": 60,
+   "currency": "SGD",
+   "hours": 3
+  },
+  {
+   "name": "Singapore Zoo night safari",
+   "category": "outdoors",
+   "price": 55,
+   "currency": "SGD",
+   "hours": 4
+  },
+  {
+   "name": "Marina Bay Sands SkyPark",
+   "category": "landmark",
+   "price": 32,
+   "currency": "SGD",
+   "hours": 1
+  },
+  {
+   "name": "Sentosa beach day",
+   "category": "outdoors",
+   "price": 0,
+   "currency": "SGD",
+   "hours": 5
+  }
+ ],
+ "Dubai": [
+  {
+   "name": "Burj Khalifa observation deck",
+   "category": "landmark",
+   "price": 190,
+   "currency": "AED",
+   "hours": 2
+  },
+  {
+   "name": "Desert safari",
+   "category": "outdoors",
+   "price": 250,
+   "currency": "AED",
+   "hours": 6
+  },
+  {
+   "name": "Dubai Mall aquarium",
+   "category": "entertainment",
+   "price": 160,
+   "currency": "AED",
+   "hours": 2
+  },
+  {
+   "name": "Old Dubai souk walk",
+   "category": "history",
+   "price": 0,
+   "currency": "AED",
+   "hours": 3
+  },
+  {
+   "name": "Dhow creek dinner",
+   "category": "food",
+   "price": 180,
+   "currency": "AED",
+   "hours": 3
+  }
+ ],
+ "New York": [
+  {
+   "name": "Statue of Liberty ferry",
+   "category": "landmark",
+   "price": 25,
+   "currency": "USD",
+   "hours": 4
+  },
+  {
+   "name": "Metropolitan Museum",
+   "category": "museum",
+   "price": 30,
+   "currency": "USD",
+   "hours": 4
+  },
+  {
+   "name": "Central Park bike ride",
+   "category": "outdoors",
+   "price": 20,
+   "currency": "USD",
+   "hours": 3
+  },
+  {
+   "name": "Broadway show",
+   "category": "entertainment",
+   "price": 120,
+   "currency": "USD",
+   "hours": 3
+  },
+  {
+   "name": "Chelsea Market food tour",
+   "category": "food",
+   "price": 85,
+   "currency": "USD",
+   "hours": 3
+  }
+ ],
+ "Delhi": [
+  {
+   "name": "Red Fort",
+   "category": "history",
+   "price": 600,
+   "currency": "INR",
+   "hours": 2
+  },
+  {
+   "name": "Humayun's Tomb",
+   "category": "history",
+   "price": 600,
+   "currency": "INR",
+   "hours": 2
+  },
+  {
+   "name": "Chandni Chowk food walk",
+   "category": "food",
+   "price": 1800,
+   "currency": "INR",
+   "hours": 3
+  },
+  {
+   "name": "Lotus Temple",
+   "category": "landmark",
+   "price": 0,
+   "currency": "INR",
+   "hours": 1
+  }
+ ],
+ "Mumbai": [
+  {
+   "name": "Gateway of India",
+   "category": "landmark",
+   "price": 0,
+   "currency": "INR",
+   "hours": 1
+  },
+  {
+   "name": "Elephanta Caves",
+   "category": "history",
+   "price": 750,
+   "currency": "INR",
+   "hours": 4
+  },
+  {
+   "name": "Dhobi Ghat and street food tour",
+   "category": "food",
+   "price": 2200,
+   "currency": "INR",
+   "hours": 3
+  },
+  {
+   "name": "Marine Drive sunset",
+   "category": "outdoors",
+   "price": 0,
+   "currency": "INR",
+   "hours": 1
+  }
+ ]
+}

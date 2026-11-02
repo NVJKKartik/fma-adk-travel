@@ -1,0 +1,186 @@
+{
+ "France": {
+  "IN": {
+   "visa_required": true,
+   "type": "Schengen short-stay visa",
+   "max_stay_days": 90,
+   "processing_days": 15,
+   "notes": "Apply at the VFS centre; passport valid 3 months beyond return."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Schengen 90 days in any 180."
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Schengen 90 days in any 180."
+  }
+ },
+ "Portugal": {
+  "IN": {
+   "visa_required": true,
+   "type": "Schengen short-stay visa",
+   "max_stay_days": 90,
+   "processing_days": 15,
+   "notes": "Apply at the VFS centre; travel insurance of EUR 30,000 required."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Schengen 90 days in any 180."
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Schengen 90 days in any 180."
+  }
+ },
+ "United Kingdom": {
+  "IN": {
+   "visa_required": true,
+   "type": "Standard Visitor visa",
+   "max_stay_days": 180,
+   "processing_days": 21,
+   "notes": "Apply online; biometrics at a visa centre."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "ETA",
+   "max_stay_days": 180,
+   "processing_days": 1,
+   "notes": "UK ETA required, applied online."
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "citizen",
+   "max_stay_days": null,
+   "processing_days": null,
+   "notes": ""
+  }
+ },
+ "Japan": {
+  "IN": {
+   "visa_required": true,
+   "type": "Temporary Visitor visa",
+   "max_stay_days": 90,
+   "processing_days": 7,
+   "notes": "Apply through the Japanese embassy or an approved agency."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": ""
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": ""
+  }
+ },
+ "Singapore": {
+  "IN": {
+   "visa_required": false,
+   "type": "visa-free with SG Arrival Card",
+   "max_stay_days": 30,
+   "processing_days": null,
+   "notes": "Submit the SG Arrival Card within 3 days of arrival."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Submit the SG Arrival Card."
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "visa-free",
+   "max_stay_days": 90,
+   "processing_days": null,
+   "notes": "Submit the SG Arrival Card."
+  }
+ },
+ "United Arab Emirates": {
+  "IN": {
+   "visa_required": true,
+   "type": "Tourist visa (e-visa)",
+   "max_stay_days": 30,
+   "processing_days": 4,
+   "notes": "Apply online through the airline or an agent; must hold a return ticket."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "visa on arrival",
+   "max_stay_days": 30,
+   "processing_days": null,
+   "notes": ""
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "visa on arrival",
+   "max_stay_days": 30,
+   "processing_days": null,
+   "notes": ""
+  }
+ },
+ "United States": {
+  "IN": {
+   "visa_required": true,
+   "type": "B-2 tourist visa",
+   "max_stay_days": 180,
+   "processing_days": 60,
+   "notes": "Interview at the US consulate; wait times are long."
+  },
+  "US": {
+   "visa_required": false,
+   "type": "citizen",
+   "max_stay_days": null,
+   "processing_days": null,
+   "notes": ""
+  },
+  "GB": {
+   "visa_required": false,
+   "type": "ESTA",
+   "max_stay_days": 90,
+   "processing_days": 3,
+   "notes": "ESTA applied online."
+  }
+ },
+ "India": {
+  "IN": {
+   "visa_required": false,
+   "type": "citizen",
+   "max_stay_days": null,
+   "processing_days": null,
+   "notes": ""
+  },
+  "US": {
+   "visa_required": true,
+   "type": "e-Tourist visa",
+   "max_stay_days": 90,
+   "processing_days": 4,
+   "notes": "Apply online."
+  },
+  "GB": {
+   "visa_required": true,
+   "type": "e-Tourist visa",
+   "max_stay_days": 90,
+   "processing_days": 4,
+   "notes": "Apply online."
+  }
+ }
+}
